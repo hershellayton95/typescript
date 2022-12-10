@@ -1,3 +1,4 @@
-Make an interface generic
+Typing arrays
 
-Make the interface generic in exercise-2-make-an-interface-generic-start.ts.
+Add types for the arrays in exercise-1-typing-arrays-start.ts.
+
