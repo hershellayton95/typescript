@@ -1,3 +1,3 @@
-Generic functions
+Make an interface generic
 
-Create and fix code with generic functions in exercise-1-generic-functions-start.ts.
+Make the interface generic in exercise-2-make-an-interface-generic-start.ts.
