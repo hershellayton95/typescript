@@ -1,5 +1,3 @@
-Read only arrays
+Tuple types
 
-Prevent the arrays from being modified in exercise-2-read-only-arrays-start.ts.
-
-
+Define tuple types for the tuples in exercise-3-tuple-types-start.ts.
