@@ -1,3 +1,3 @@
-Type assertions
+Type aliases
 
-Add a type assertion and remove the invalid code in exercise-3-type-assertions-start.ts.
+Create and use a type alias in exercise-4-type-aliases-start.ts.
