@@ -1,3 +1,3 @@
-Define object types
+Add property modifiers
 
-Define types for the objects in exercise-1-define-object-types-start.ts.
+Add property modifiers to the object types in exercise-2-add-property-modifiers-start.ts.
