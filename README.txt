@@ -1,3 +1,3 @@
-Complete the class
+Create a child class
 
-Complete the class in exercise-1-complete-the-class-start.ts.
+Create a child class in exercise-2-create-a-child-class-start.ts.
