@@ -1,3 +1,3 @@
-Reduce an array
+Complete the class
 
-Fix the initial value for the array reducer in exercise-4-reduce-an-array-start.ts.
+Complete the class in exercise-1-complete-the-class-start.ts.
