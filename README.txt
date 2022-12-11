@@ -1,3 +1,3 @@
-Complete a mapped type
+Construct types from types
 
-Complete the mapped type in exercise-3-complete-a-mapped-type-start.ts.
+Use utility types to construct new object types from an existing interface in exercise-1-construct-types-from-types-start.ts.
